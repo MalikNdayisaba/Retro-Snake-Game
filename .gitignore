@@ -1,0 +1,11 @@
+# Visual Studio / IDE folders
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
